@@ -1,9 +1,9 @@
 public class DataTypes {
     public static void main(String[] args) {
-        byte a = 3;
+        byte a = 5;
         char b = 's';
-        long c = 43;
-        int d = 4;
+        long c = 32;
+        int d = 9;
         double e = 43.54;
         short f = 2;
         boolean g = true;
