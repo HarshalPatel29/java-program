@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- ⚡Reach me in Linkedin **https://www.linkedin.com/in/Yashraj9673**
+- ⚡Reach me in Linkedin **https://www.linkedin.com/in/harshal-patel-352877243/**
 
-- ⚡Reach me in Hacker Rank **https://www.hackerrank.com/yashrajchaudhar3**
+- ⚡Reach me in Hacker Rank **https://www.hackerrank.com/patelharsh0022**
 
 - 📫 How to reach me **patelharsh0022@gmail.com**
 
