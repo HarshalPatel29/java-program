@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yashraj Chaudhari</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshal Patel</h1>
 <h3 align="center">I'm a Passionate Full Stack Developer from India.</h3>
 
 
@@ -14,9 +14,9 @@
 
 - ⚡Reach me in Hacker Rank **https://www.hackerrank.com/yashrajchaudhar3**
 
-- 📫 How to reach me **yashrajchaudhari48924@gmail.com**
+- 📫 How to reach me **patelharsh0022@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play cricket and go to the GYM.**
 
 ## 🚀 Languages and Tools:
 
